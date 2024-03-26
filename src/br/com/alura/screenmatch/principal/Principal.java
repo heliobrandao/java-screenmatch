@@ -5,6 +5,7 @@ import br.com.alura.screenmatch.calculo.FiltroRecomendacao;
 import br.com.alura.screenmatch.modelos.Episodio;
 import br.com.alura.screenmatch.modelos.Filme;
 import br.com.alura.screenmatch.modelos.Serie;
+import br.com.alura.screenmatch.modelos.Titulo;
 
 import java.util.ArrayList;
 
@@ -65,6 +66,7 @@ public class Principal {
         System.out.println("Primeiro filme: " + listaDeFilmes.get(0).getNome());
         System.out.println(listaDeFilmes);
         System.out.println("toString do filme: " + listaDeFilmes.get(0).toString());
+
 
     }
 }
