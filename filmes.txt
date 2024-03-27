@@ -1,0 +1,1 @@
+nome='The Lord of the Rings: The Fellowship of the Ring', anoDeLancamento=2001, duracao=17
